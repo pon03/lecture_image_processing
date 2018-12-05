@@ -9,7 +9,7 @@ imagesc(ORG); axis image; % 画像の表示
 pause; % 一時停止
 
 以下の図1に表示された原画像を示す。
-![原画像]()
+![原画像](https://github.com/pon03/lecture_image_processing/blob/master/%E8%AA%B2%E9%A1%8C2/gengazou.png?raw=true)
 図1　原画像
 
 % ２階調画像の生成
